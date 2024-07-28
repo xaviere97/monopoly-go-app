@@ -3,13 +3,6 @@ import random
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
-import statsmodels.api as sm
-import statsmodels.formula.api as smf
-import time
-import seaborn as sns
-import math
-from scipy.stats import ttest_ind
-import re
 import streamlit as st
 
 # Define the Monopoly board
